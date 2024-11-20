@@ -14,7 +14,7 @@ using UnityEngine;
 namespace Oxide.Plugins
 {
     [Info("Offline Furnaces", "VisEntities", "1.0.0")]
-    [Description(" ")]
+    [Description("Turns off furnaces when players go offline.")]
     public class OfflineFurnaces : RustPlugin
     {
         #region Fields
